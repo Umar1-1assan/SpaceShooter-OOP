@@ -1,0 +1,6 @@
+Ahmad              120
+Umar               50
+Bilal              200
+Bilal              500
+Bilal              1000
+uju                200
